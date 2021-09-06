@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "542931041471",
+    "project_id": "oyun-e1615",
+    "storage_bucket": "oyun-e1615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542931041471:android:9d046586f87b5f80a05a0a",
+        "android_client_info": {
+          "package_name": "com.example.mind_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542931041471-0dc4885n927lh6ucgtc1obo38obrnahd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mind_game",
+            "certificate_hash": "3d0f27a8c81577545a6a66809a391cbffc2fe8b4"
+          }
+        },
+        {
+          "client_id": "542931041471-rhfda7gm95ee1kkkr1cg8588u3k3b5np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV_6uNoiT34o_kteW7_T4kF7qBK-sFwvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542931041471-rhfda7gm95ee1kkkr1cg8588u3k3b5np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
